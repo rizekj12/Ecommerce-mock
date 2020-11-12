@@ -1,0 +1,22 @@
+.header-div{
+    font-family: 'Lato','Raleway';
+    background-color: #34216c;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.shopping-cart{
+    display: flex;
+    flex-direction: row;
+    color: white;
+    margin-right: 50px;
+    padding: 1px;
+    align-items: baseline;
+}
+
+.shop-div{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
